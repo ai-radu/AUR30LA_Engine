@@ -1,7 +1,8 @@
 ![description](aur30lalogo.png)
 AUR30LA Engine\
 solo project. i have no idea what i'm doing. general-purpose game engine. not for sale. free forever.\
-aur30laengine@gmail.com
+https://www.youtube.com/@AUR30LAEngine // updates
+aur30laengine@gmail.com // please don't
 
 1. Download:
 
